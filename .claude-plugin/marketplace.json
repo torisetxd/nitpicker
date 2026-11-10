@@ -1,0 +1,11 @@
+{
+  "name": "nitpicker",
+  "owner": { "name": "torisetxd" },
+  "plugins": [
+    {
+      "name": "nitpicker",
+      "source": "./",
+      "description": "After the main agent finishes a change, a reviewer agent runs the app, nitpicks it, and hands the list back for fixing."
+    }
+  ]
+}

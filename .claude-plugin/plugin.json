@@ -1,0 +1,6 @@
+{
+  "name": "nitpicker",
+  "version": "0.1.0",
+  "description": "After the main agent finishes a change, a reviewer agent runs the app, nitpicks it, and hands the list back for fixing.",
+  "types": "./types/index.d.ts"
+}
